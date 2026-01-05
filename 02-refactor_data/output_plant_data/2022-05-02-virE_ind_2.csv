@@ -1,0 +1,89 @@
+Strain,Induction,Count,Protein
+GV3101,None,0.0,virE1
+GV3101,None,0.0,virE1
+ΔvirE12,None,0.0,virE1
+ΔvirE12,None,0.0,virE1
+ΔvirE12 p100,None,0.97268,virE1
+ΔvirE12 p100,None,0.95283,virE1
+ΔvirE12 p101,None,0.0,virE1
+ΔvirE12 p101,None,0.99108,virE1
+ΔvirE12 p111,None,2.2321,virE1
+ΔvirE12 p111,None,1.0462,virE1
+ΔvirE12 p114,None,0.0,virE1
+ΔvirE12 p114,None,0.0,virE1
+ΔvirE12 p117,None,0.0,virE1
+ΔvirE12 p117,None,0.0,virE1
+LacI,None,0.0,virE1
+LacI,None,0.0,virE1
+TetR,None,0.0,virE1
+TetR,None,0.0,virE1
+NahR,None,0.0,virE1
+NahR,None,0.0,virE1
+Jungle Express,None,0.0,virE1
+Jungle Express,None,0.0,virE1
+CuO,None,0.0,virE1
+CuO,None,0.0,virE1
+LacI,Medium,0.0,virE1
+LacI,Medium,0.0,virE1
+TetR,Medium,0.0,virE1
+TetR,Medium,0.0,virE1
+NahR,Medium,1.0974,virE1
+NahR,Medium,0.97783,virE1
+Jungle Express,Medium,0.0,virE1
+Jungle Express,Medium,0.0,virE1
+CuO,Medium,2.0326,virE1
+CuO,Medium,2.0267,virE1
+LacI,High,1.0599,virE1
+LacI,High,0.0,virE1
+TetR,High,0.0,virE1
+TetR,High,0.94058,virE1
+NahR,High,1.9356,virE1
+NahR,High,1.9332,virE1
+Jungle Express,High,0.98279,virE1
+Jungle Express,High,1.0024,virE1
+CuO,High,3.9582,virE1
+CuO,High,1.9631,virE1
+GV3101,None,0.0,virE2
+GV3101,None,0.0,virE2
+ΔvirE12,None,0.0,virE2
+ΔvirE12,None,0.0,virE2
+ΔvirE12 p100,None,35.989,virE2
+ΔvirE12 p100,None,35.255,virE2
+ΔvirE12 p101,None,25.02,virE2
+ΔvirE12 p101,None,27.75,virE2
+ΔvirE12 p111,None,49.107,virE2
+ΔvirE12 p111,None,44.986,virE2
+ΔvirE12 p114,None,4.5588,virE2
+ΔvirE12 p114,None,1.9959,virE2
+ΔvirE12 p117,None,11.565,virE2
+ΔvirE12 p117,None,12.553,virE2
+LacI,None,0.0,virE2
+LacI,None,0.0,virE2
+TetR,None,0.0,virE2
+TetR,None,0.0,virE2
+NahR,None,0.0,virE2
+NahR,None,0.95991,virE2
+Jungle Express,None,0.0,virE2
+Jungle Express,None,0.0,virE2
+CuO,None,0.0,virE2
+CuO,None,0.0,virE2
+LacI,Medium,20.875,virE2
+LacI,Medium,21.715,virE2
+TetR,Medium,30.575,virE2
+TetR,Medium,31.787,virE2
+NahR,Medium,44.995,virE2
+NahR,Medium,40.091,virE2
+Jungle Express,Medium,28.785,virE2
+Jungle Express,Medium,33.046,virE2
+CuO,Medium,45.733,virE2
+CuO,Medium,46.615,virE2
+LacI,High,28.618,virE2
+LacI,High,29.772,virE2
+TetR,High,28.955,virE2
+TetR,High,26.336,virE2
+NahR,High,50.327,virE2
+NahR,High,50.264,virE2
+Jungle Express,High,42.26,virE2
+Jungle Express,High,40.094,virE2
+CuO,High,65.311,virE2
+CuO,High,61.837,virE2
